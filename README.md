@@ -15,6 +15,26 @@ log, so it can go on a macro.
 
 ---
 
+## Requires
+
+**questmarks, installed**, though not necessarily loaded. It is found
+automatically at `<Windower>/addons/questmarks/`; override with
+`//qmui path <folder>`. This addon reads questmarks' data and runs its `core/`
+modules in its own Lua state. It never writes to questmarks and never modifies
+it.
+
+Two features read questmarks' `build/` off your own disk rather than shipping any
+of it: each quest's **description**, which is the text of your own in-game quest
+log, from `build/rendered/`; and each step's **player-facing note** from
+`build/authored/`. Without them the two features are simply absent: no
+description, no notes, and a step with no note stops being expandable. Nothing
+else changes and nothing breaks.
+
+If questmarks is missing, is the wrong version, or the game has not sent your
+quest log yet, the panel says which in a sentence and does nothing else. It never
+throws. `//qmui diag` reports exactly what it found, including which of these
+optional pieces are present.
+
 ## What it does
 
 ![questmarks-ui working in game](assets/preview.png "showing the 'mixed' style")
@@ -66,28 +86,6 @@ Mouse: click the book to open or close the log and drag it to move it; click a r
 to open its detail, a header to fold, the `x` to close, and use the wheel to
 scroll. Where the book overlaps the open window the window takes the click,
 because this platform gives an addon no z-order control.
-
-## Requires
-
-**questmarks, installed**, though not necessarily loaded. It is found
-automatically at `<Windower>/addons/questmarks/`; override with
-`//qmui path <folder>`. This addon reads questmarks' data and runs its `core/`
-modules in its own Lua state. It never writes to questmarks and never modifies
-it.
-
-Two features read questmarks' `build/` off your own disk rather than shipping any
-of it: each quest's **description**, which is the text of your own in-game quest
-log, from `build/rendered/`; and each step's **player-facing note** from
-`build/authored/`. A clone of questmarks has both, because it commits them, and
-its `NOTICE` explains why and names this addon as the reason `build/rendered/` is
-committed at all. Without them the two features are simply absent: no
-description, no notes, and a step with no note stops being expandable. Nothing
-else changes and nothing breaks.
-
-If questmarks is missing, is the wrong version, or the game has not sent your
-quest log yet, the panel says which in a sentence and does nothing else. It never
-throws. `//qmui diag` reports exactly what it found, including which of these
-optional pieces are present.
 
 ## Testing
 
