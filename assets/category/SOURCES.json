@@ -1,0 +1,162 @@
+{
+  "abyssea.png": {
+    "plate": "cut, 324 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "Abysseaquest_Icon.png",
+    "source_url": "https://www.bg-wiki.com/images/d/d9/Abysseaquest_Icon.png",
+    "wiki_categories": [
+      "Category:Abyssea_Quests"
+    ]
+  },
+  "acp.png": {
+    "plate": "cut, 63 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "CrystallineProphecy_Icon.png",
+    "source_url": "https://www.bg-wiki.com/images/5/57/CrystallineProphecy_Icon.png",
+    "wiki_categories": [
+      "Category:Crystalline_Missions"
+    ]
+  },
+  "adoulin.png": {
+    "plate": "cut, 47 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "Seekersofadoulin_Icon.png",
+    "source_url": "https://www.bg-wiki.com/images/d/d9/Seekersofadoulin_Icon.png",
+    "wiki_categories": [
+      "Category:Adoulin_Quests",
+      "Category:Seekers_of_Adoulin_Missions"
+    ]
+  },
+  "ahturhgan.png": {
+    "plate": "cut, 21 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "AhtUrghan_Icon.png",
+    "source_url": "https://www.bg-wiki.com/images/f/f1/AhtUrghan_Icon.png",
+    "wiki_categories": [
+      "Category:Aht_Urhgan_Missions",
+      "Category:Aht_Urhgan_Quests"
+    ]
+  },
+  "asa.png": {
+    "plate": "cut, 49 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "ShantottoAscension_Icon.png",
+    "source_url": "https://www.bg-wiki.com/images/4/43/ShantottoAscension_Icon.png",
+    "wiki_categories": [
+      "Category:A_Shantotto_Ascension_Missions"
+    ]
+  },
+  "bastok.png": {
+    "plate": "cut, 86 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "Bastok_Iconv2.png",
+    "source_url": "https://www.bg-wiki.com/images/c/c1/Bastok_Iconv2.png",
+    "wiki_categories": [
+      "Category:Bastok_Missions",
+      "Category:Bastok_Quests"
+    ]
+  },
+  "campaign.png": {
+    "plate": "cut, 471 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "Campaign_Iconv2.png",
+    "source_url": "https://www.bg-wiki.com/images/7/7d/Campaign_Iconv2.png",
+    "wiki_categories": [
+      "Category:Campaign_Ops"
+    ]
+  },
+  "jeuno.png": {
+    "plate": "kept -- the corner fill reached the artwork",
+    "source_alpha": "yes",
+    "source_file": "Jeuno_Icon.png",
+    "source_url": "https://www.bg-wiki.com/images/6/6f/Jeuno_Icon.png",
+    "wiki_categories": [
+      "Category:Jeuno_Quests",
+      "Category:Zilart_Missions"
+    ]
+  },
+  "mkd.png": {
+    "plate": "cut, 38 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "Mooglekupodetat_Icon.png",
+    "source_url": "https://www.bg-wiki.com/images/6/67/Mooglekupodetat_Icon.png",
+    "wiki_categories": [
+      "Category:A_Moogle_Kupo_d'Etat_Missions"
+    ]
+  },
+  "other.png": {
+    "plate": "cut, 62 px flood-filled from the corners",
+    "source_alpha": "none",
+    "source_file": "Otherquest_Icon.png",
+    "source_url": "https://www.bg-wiki.com/images/8/83/Otherquest_Icon.png",
+    "wiki_categories": [
+      "Category:Other_Quests"
+    ]
+  },
+  "outlands.png": {
+    "plate": "cut, 213 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "Outerlandsquest_Icon.png",
+    "source_url": "https://www.bg-wiki.com/images/0/05/Outerlandsquest_Icon.png",
+    "wiki_categories": [
+      "Category:Outlands_Quests"
+    ]
+  },
+  "promathia.png": {
+    "plate": "cut, 327 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "Chainsofpromathia_Icon.png",
+    "source_url": "https://www.bg-wiki.com/images/1/18/Chainsofpromathia_Icon.png",
+    "wiki_categories": [
+      "Category:Promathia_Missions"
+    ]
+  },
+  "rov.png": {
+    "plate": "cut, 588 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "Rhapsodies_Icon.png",
+    "source_url": "https://www.bg-wiki.com/images/5/5a/Rhapsodies_Icon.png",
+    "wiki_categories": [
+      "Category:Rhapsodies_of_Vanadiel_Missions"
+    ]
+  },
+  "sandoria.png": {
+    "plate": "cut, 33 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "Sandorian_Iconv2.png",
+    "source_url": "https://www.bg-wiki.com/images/3/3b/Sandorian_Iconv2.png",
+    "wiki_categories": [
+      "Category:San_d'Oria_Missions",
+      "Category:San_d'Oria_Quests"
+    ]
+  },
+  "tvr.png": {
+    "plate": "cut, 23 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "VoraciousResurgence_Icon.png",
+    "source_url": "https://www.bg-wiki.com/images/a/a4/VoraciousResurgence_Icon.png",
+    "wiki_categories": [
+      "Category:The_Voracious_Resurgence_Missions"
+    ]
+  },
+  "windurst.png": {
+    "plate": "cut, 32 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "Windurst_Iconv2.png",
+    "source_url": "https://www.bg-wiki.com/images/e/e4/Windurst_Iconv2.png",
+    "wiki_categories": [
+      "Category:Windurst_Missions",
+      "Category:Windurst_Quests"
+    ]
+  },
+  "wotg.png": {
+    "plate": "cut, 30 px flood-filled from the corners",
+    "source_alpha": "yes",
+    "source_file": "Wingsofthegoddess_Icon.png",
+    "source_url": "https://www.bg-wiki.com/images/b/b6/Wingsofthegoddess_Icon.png",
+    "wiki_categories": [
+      "Category:Crystal_War_Quests",
+      "Category:Wings_of_the_Goddess_Missions"
+    ]
+  }
+}

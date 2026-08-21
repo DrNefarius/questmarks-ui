@@ -1,0 +1,64 @@
+MIT License
+
+Copyright (c) 2026 DrNefarius
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+THE MIT LICENCE ABOVE COVERS THIS PROJECT'S SOURCE CODE AND ITS OWN ARTWORK.
+
+  * the Lua under `ui/`, plus `questmarks-ui.lua`, `model.lua`, `notes.lua` and
+    `resnames.lua`;
+  * everything under `tools/`;
+  * the project's own documentation;
+  * and the artwork this project made for itself: `assets/papyrus.png` and the
+    two page sheets derived from it, and `assets/book_closed.png` and
+    `assets/book_open.png`, which are a commission drawn for this addon and in
+    which no third party holds rights.
+
+ONE SET OF FILES IS NOT UNDER IT.
+
+    assets/category/*.png     17 region badges
+    assets/category/SOURCES.json
+    tools/category-sources/icons/manifest.json
+
+Those badges are derived from BG Wiki's own category images and BG Wiki content
+is CC BY-NC-SA 3.0. They are therefore offered under CC BY-NC-SA 3.0, and so is
+any further derivative of them. The two records beside them name, per file,
+where each came from.
+
+  Source:   https://www.bg-wiki.com
+  Licence:  CC BY-NC-SA 3.0  --  https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Because those files are NON-COMMERCIAL, questmarks-ui AS A WHOLE cannot be sold
+or bundled into anything monetised, including an ad-supported distribution. The
+MIT grant above still says what it says about the code; it cannot make the
+badges commercial.
+
+A limit worth stating here as well as in NOTICE: most of the wiki's category
+images are SQUARE ENIX promotional or in-game artwork uploaded to the wiki, and
+SQUARE ENIX's copyright in that artwork is a separate question from BG Wiki's
+CC licence over its pages. A fan wiki cannot license someone else's artwork to
+you.
+
+NOTICE is the authoritative, field-by-field account of where each piece came
+from, and it carries the attribution CC BY asks for. questmarks' own NOTICE
+covers the quest and mission data this addon reads off your disk and applies
+unchanged here.

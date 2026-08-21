@@ -1,0 +1,18 @@
+# Line endings, normalised once here rather than per file.
+#
+# This tree is written on Windows and eight of its text files are CRLF while the
+# rest are LF, which is the ordinary result of several editors and two generators
+# having touched it. `text=auto` stores LF in the repository, so the mixture
+# never reaches a clone and a diff never turns into "every line changed".
+#
+# `eol=lf` pins the WORKING COPY to LF as well, and it is not tidiness. With
+# `core.autocrlf=true`, which is the Windows default, a checkout without it hands
+# you CRLF; `tools/genmetrics.py` and `tools/make_pages.py` both write their
+# output with an explicit newline="\n", so regenerating ui/metrics.lua or
+# ui/pagestats.lua would rewrite every line and leave `git status` dirty after a
+# no-op. questmarks pins it for the same reason.
+* text=auto eol=lf
+
+# The artwork and the page sheets. Marked explicitly so nothing ever tries to
+# normalise a PNG.
+*.png binary
