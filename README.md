@@ -11,6 +11,8 @@ A closed book appears. Click it to open the quest log, click it again to close.
 Drag it wherever you like and it stays there. `//qmui` still opens and closes the
 log, so it can go on a macro.
 
+**!! KNOWN ISSUE: The first click into the UI after loading could take a couple of seconds during which time the game does not seem to respond. Just give it a couple of seconds and it'll return back to normal and every subsequent click will be fast. !!**
+
 ---
 
 ## What it does
